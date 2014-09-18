@@ -17,9 +17,9 @@
     </dependencies>
 
     <scm>
-        <connection>scm:git:https://apavlenk0@bitbucket.org/apavlenk0/hellorelease.git</connection>
-        <developerConnection>scm:git:git@bitbucket.org:apavlenk0/hellorelease.git</developerConnection>
-        <url>https://apavlenk0@bitbucket.org/apavlenk0/hellorelease</url>
+        <connection>scm:git:https://https://github.com/AleksandrPavlenko/HelloRelease.git</connection>
+        <developerConnection>scm:git:git@github.com:AleksandrPavlenko/HelloRelease.git</developerConnection>
+        <url>https://github.com/AleksandrPavlenko/HelloRelease</url>
         <tag>0.1</tag>
     </scm>
 </project>
