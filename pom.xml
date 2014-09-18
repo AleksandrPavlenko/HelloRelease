@@ -3,7 +3,7 @@
     <groupId>net.pavlenko</groupId>
     <artifactId>HelloRelease</artifactId>
     <packaging>jar</packaging>
-    <version>0.2</version>
+    <version>0.3</version>
     <name>HelloRelease</name>
     <url>http://maven.apache.org</url>
     <dependencies>
