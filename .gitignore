@@ -1,0 +1,12 @@
+*.class
+.eclipse
+.project
+.settings
+# Package Files #
+*.jar
+*.war
+*.ear
+.idea
+*.iml
+target
+/*.iml
